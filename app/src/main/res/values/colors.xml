@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#ba000d</color>
+    <color name="colorAccent">#ff7961</color>
+    <color name="camera">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkgray">#A9A9A9</color><!--暗灰色 -->
+    <color name="ioe_master_color">#ff1a83d4</color>
+    <color name="stats_icon_color">#ff116099</color>
 </resources>
